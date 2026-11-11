@@ -2,19 +2,19 @@
   "schema_version": 1,
   "project": "mylib-w-software-release-dock",
   "source": "github",
-  "version": "1.0.3",
-  "package_name": "mylib-w-software-release-dock-v1.0.3.exe",
+  "version": "1.0.4",
+  "package_name": "mylib-w-software-release-dock-v1.0.4.exe",
   "package_parts": [
     {
-      "name": "mylib-w-software-release-dock-v1.0.3.exe.part001",
-      "url": "https://github.com/zsh-0/mylib-w_software_release_dock/releases/download/mylib-w-software-release-dock-v1.0.3/mylib-w-software-release-dock-v1.0.3.exe.part001",
-      "sha256": "a60da1bf19bcf2b70b3028af66587b8dc5d568e417a9854812d70cbaffc682a9",
-      "size": 47484349
+      "name": "mylib-w-software-release-dock-v1.0.4.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-w_software_release_dock/releases/download/mylib-w-software-release-dock-v1.0.4/mylib-w-software-release-dock-v1.0.4.exe.part001",
+      "sha256": "e2404b5e20ff282a930443098530db53e98197ba60bca6cd40669066a3eb24ae",
+      "size": 47487952
     }
   ],
-  "sha256": "a60da1bf19bcf2b70b3028af66587b8dc5d568e417a9854812d70cbaffc682a9",
-  "size": 47484349,
-  "notes": "V1.0.3\n1、新增项目列表排序管理\n2、新增更新源管理\n3、优化了很多细节问题",
+  "sha256": "e2404b5e20ff282a930443098530db53e98197ba60bca6cd40669066a3eb24ae",
+  "size": 47487952,
+  "notes": "V1.0.4\n1、新增远程管理包文件",
   "mandatory": false,
-  "published_at": "2026-11-11T02:59:58+00:00"
+  "published_at": "2026-11-11T06:10:10+00:00"
 }
