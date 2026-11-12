@@ -2,19 +2,19 @@
   "schema_version": 1,
   "project": "mylib-w-software-release-dock",
   "source": "github",
-  "version": "1.0.4",
-  "package_name": "mylib-w-software-release-dock-v1.0.4.exe",
+  "version": "1.0.5",
+  "package_name": "mylib-w-software-release-dock-v1.0.5.exe",
   "package_parts": [
     {
-      "name": "mylib-w-software-release-dock-v1.0.4.exe.part001",
-      "url": "https://github.com/zsh-0/mylib-w_software_release_dock/releases/download/mylib-w-software-release-dock-v1.0.4/mylib-w-software-release-dock-v1.0.4.exe.part001",
-      "sha256": "e2404b5e20ff282a930443098530db53e98197ba60bca6cd40669066a3eb24ae",
-      "size": 47487952
+      "name": "mylib-w-software-release-dock-v1.0.5.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-w_software_release_dock/releases/download/mylib-w-software-release-dock-v1.0.5/mylib-w-software-release-dock-v1.0.5.exe.part001",
+      "sha256": "f4e4bdd5971191730292273e4884751b4d2d1fb7ac85aa47a3679e2e1291e8e4",
+      "size": 47489705
     }
   ],
-  "sha256": "e2404b5e20ff282a930443098530db53e98197ba60bca6cd40669066a3eb24ae",
-  "size": 47487952,
-  "notes": "V1.0.4\n1、新增远程管理包文件",
+  "sha256": "f4e4bdd5971191730292273e4884751b4d2d1fb7ac85aa47a3679e2e1291e8e4",
+  "size": 47489705,
+  "notes": "V1.0.5\n1、修复撤销版本更新时无法再次推送同版本到云端",
   "mandatory": false,
-  "published_at": "2026-11-11T06:10:10+00:00"
+  "published_at": "2026-11-12T06:25:42+00:00"
 }
